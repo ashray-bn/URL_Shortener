@@ -5,7 +5,7 @@ Simple app built in Flask aimed at shortening a URL and providing basic informat
  -Python3
  -Flask
 
- Running the app-
+ Running the app- 
  python app.py
  => server is running on 127.0.0.1:5000
 
