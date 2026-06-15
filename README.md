@@ -22,7 +22,7 @@ Gives you the number of clicks of the particular shortened URL and other details
 
 Limitations (future improvements)
 - no persistent storage
-- no validation of URLS
+- no validation of URLs
 - no expiration date of links
 - no user auth
 - no verification of randomness of code generated (cross referencing with a dictionary)
