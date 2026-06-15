@@ -1,12 +1,10 @@
 # URL_Shortener
 Simple app built in Flask aimed at shortening a URL and providing basic information such as the number of clicks of the shortened URL
 
- Requirements
- -Python3
- -Flask
+ Requirements: Python3 and Flask
 
- Running the app- 
- python app.py
+ Running the app-  
+ python app.py  
  => server is running on 127.0.0.1:5000
 
  Features
